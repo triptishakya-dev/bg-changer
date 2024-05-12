@@ -1,0 +1,56 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.parent{
+    height: 100%;
+    width: 100%;
+    background-color: grey;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+}
+button{
+margin: 20px;
+padding: 10px 20px;
+border-radius: 10px;
+font-size: larger;
+box-shadow: 5px 10px;
+cursor: pointer;
+
+}
+#btn1{
+    background-color: red;
+}
+
+#btn2{
+    background-color: blue;
+} 
+#btn3{
+    background-color: pink;
+} 
+#btn4{
+    background-color: yellow;
+}
+#btn5{
+    background-color: purple;
+}
+#btn6{
+    background-color: green;
+}
+#btn7{
+    background-color: gray;
+}
+#btn8{
+    background-color: skyblue;
+} 
+#btn9{
+    background-color: orange;
+}
+#btn10{
+    background-color: black;
+    color: white;
+}
